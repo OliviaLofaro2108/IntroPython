@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#git ignore DS_Store added during office hours
+#git ignore DS_Store added during office hours 9/15
 .DS_Store
 
 # C extensions
