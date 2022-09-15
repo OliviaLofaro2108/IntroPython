@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#git ignore DS_Store added during office hours
+.DS_Store
+
 # C extensions
 *.so
 
